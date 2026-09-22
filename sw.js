@@ -1,5 +1,5 @@
 /* 読書録　オフラインでも画面を開けるようにする仕組み（サービスワーカー） */
-const CACHE = 'dokusho-v2.0.2';
+const CACHE = 'dokusho-v2.0.3';
 const ASSETS = [
   './',
   './index.html',
